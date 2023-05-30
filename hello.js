@@ -6,3 +6,4 @@ console.log("master change...")
 =======
 console.log("c1 change...")
 >>>>>>> c1
+latest v by b1
